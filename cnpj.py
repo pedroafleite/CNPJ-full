@@ -1,4 +1,5 @@
 # -*- encoding: utf-8 -*-
+#execute in Shell as python3 cnpj.py PASTA_COM_ZIPS csv PASTA_DE_SAIDA --dir
 import os
 import glob
 import sys
